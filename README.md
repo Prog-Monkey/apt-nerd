@@ -1,48 +1,49 @@
-apt-nerd: The Easy Nerd Font Installer
-Welcome to apt-nerd, your one-stop solution for effortlessly installing Nerd Fonts on your system. Say goodbye to complicated installation processes and hello to a seamless experience with apt-nerd!
+# apt-nerd: The Easy Nerd Font Installer
 
-Getting Started
-Prerequisites
-Make sure you have git installed on your system. If not, you can install it via your package manager.
+Welcome to **apt-nerd**, your one-stop solution for effortlessly installing Nerd Fonts on your system. Say goodbye to complicated installation processes and hello to a seamless experience with apt-nerd!
 
-Installation
-Clone the apt-nerd repository:
+## Getting Started 🚀
 
-bash
-Copy code
-git clone https://github.com/Prog-Monkey/apt-nerd.git
-Navigate into the apt-nerd directory:
+### Prerequisites
 
-bash
-Copy code
-cd apt-nerd
-Grant permission to run the installer script:
+Make sure you have `git` installed on your system. If not, you can install it via your package manager.
 
-bash
-Copy code
-chmod a+x Installer.sh
-Execute the installer script:
+### Installation
 
-bash
-Copy code
-./Installer.sh
-Usage
+1. **Clone** the apt-nerd repository:
+
+    ```bash
+    git clone https://github.com/Prog-Monkey/apt-nerd.git
+    ```
+
+2. **Navigate** into the apt-nerd directory:
+
+    ```bash
+    cd apt-nerd
+    ```
+
+3. **Grant permission** to run the installer script:
+
+    ```bash
+    chmod a+x Installer.sh
+    ```
+
+4. **Execute** the installer script:
+
+    ```bash
+    ./Installer.sh
+    ```
+
+### Usage 🛠️
+
 Once you've run the installer script, follow these simple steps:
 
-Enter the GitHub URL for the Nerd Font you wish to install.
-Provide the name of the actual zip file (you can find it in the output or by using ls).
+1. Enter the GitHub URL for the Nerd Font you wish to install.
+2. Provide the name of the actual zip file (you can find it in the output or by using `ls`).
+
 And that's it! Sit back and watch the magic happen as apt-nerd installs your chosen Nerd Font with ease.
 
-Example
+## Example 💡
+
 For instance, if you'd like to install the Meslo font, you would provide the following URL:
 
-ruby
-Copy code
-https://github.com/ryanoasis/nerd-fonts/releases/tag/v3.2.1/Meslo.zip
-And then enter the zip file name when prompted, which is typically Meslo.zip.
-
-Contributing
-Found a bug or have an enhancement in mind? We'd love for you to contribute! Just fork the repository, make your changes, and submit a pull request.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
