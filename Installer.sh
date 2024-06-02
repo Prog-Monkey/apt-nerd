@@ -1,5 +1,4 @@
 #/bin/bash
-# I am installing JetBrains change the url for your font
 echo "Input the Github URL please!"
 read url
 echo "[-] Download fonts [-]"
