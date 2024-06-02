@@ -1,35 +1,48 @@
-Meet apt-nerd the easy to use installer
+apt-nerd: The Easy Nerd Font Installer
+Welcome to apt-nerd, your one-stop solution for effortlessly installing Nerd Fonts on your system. Say goodbye to complicated installation processes and hello to a seamless experience with apt-nerd!
 
-First git clone
+Getting Started
+Prerequisites
+Make sure you have git installed on your system. If not, you can install it via your package manager.
 
+Installation
+Clone the apt-nerd repository:
 
+bash
+Copy code
 git clone https://github.com/Prog-Monkey/apt-nerd.git
+Navigate into the apt-nerd directory:
 
-
-Next enter apt-nerd folder
-
+bash
+Copy code
 cd apt-nerd
+Grant permission to run the installer script:
 
-Give the Installer permission to run!
-
-
+bash
+Copy code
 chmod a+x Installer.sh
+Execute the installer script:
 
-
-Finally run it!
-
-
+bash
+Copy code
 ./Installer.sh
+Usage
+Once you've run the installer script, follow these simple steps:
 
+Enter the GitHub URL for the Nerd Font you wish to install.
+Provide the name of the actual zip file (you can find it in the output or by using ls).
+And that's it! Sit back and watch the magic happen as apt-nerd installs your chosen Nerd Font with ease.
 
-Then enter the github url for the nerd font then let the magic commense!
+Example
+For instance, if you'd like to install the Meslo font, you would provide the following URL:
 
-
-I am using meslo...
-
-
+ruby
+Copy code
 https://github.com/ryanoasis/nerd-fonts/releases/tag/v3.2.1/Meslo.zip
+And then enter the zip file name when prompted, which is typically Meslo.zip.
 
-Then enter the actual zip name EG: Meslo.zip It can be found in the output or the simple ls
+Contributing
+Found a bug or have an enhancement in mind? We'd love for you to contribute! Just fork the repository, make your changes, and submit a pull request.
 
-Thats all you are done and a nerd font is in your system!
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
