@@ -1,16 +1,16 @@
-Hey there!
-Have you felt the need for an easy installer for a nerd font!
-But your package manager doesn't satisfy your needs?
-Meet apt-nerd the easy to use installer
-here is how to use
-first git clone
+#Hey there!
+#Have you felt the need for an easy installer for a nerd font!
+#But your package manager doesn't satisfy your needs?
+#Meet apt-nerd the easy to use installer
+#here is how to use
+#first git clone
 git clone https://github.com/Prog-Monkey/apt-nerd.git
-next enter apt-nerd folder
+#next enter apt-nerd folder
 cd apt-nerd
-give the Installer permission to run!
+#give the Installer permission to run!
 chmod a+x Installer.sh
-Finally run it!
+#Finally run it!
 ./Installer.sh
-Then enter the github url for the nerd font then let the magic commense!
-I am using meslo...
+#Then enter the github url for the nerd font then let the magic commense!
+#I am using meslo...
 https://github.com/ryanoasis/nerd-fonts/releases/tag/v3.2.1/Meslo.zip
