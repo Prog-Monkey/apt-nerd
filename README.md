@@ -29,3 +29,7 @@ I am using meslo...
 
 
 https://github.com/ryanoasis/nerd-fonts/releases/tag/v3.2.1/Meslo.zip
+
+Then enter the actual zip name EG: Meslo.zip It can be found in the output or the simple ls
+
+Thats all you are done and a nerd font is in your system!
