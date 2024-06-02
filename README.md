@@ -5,7 +5,7 @@
 #here is how to use
 #first git clone
 git clone https://github.com/Prog-Monkey/apt-nerd.git
-#next enter apt-nerd folder
+#next enter apt-nerd folders
 cd apt-nerd
 #give the Installer permission to run!
 chmod a+x Installer.sh
