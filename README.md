@@ -39,7 +39,7 @@ Make sure you have `git` installed on your system. If not, you can install it vi
 Once you've run the installer script, follow these simple steps:
 
 1. Enter the GitHub URL for the Nerd Font you wish to install.
-2. Provide the name of the actual zip file (you can find it in the output or by using `ls`).
+2. Provide the name of the actual zip file (you can find it in the wget output or by using `ls`).
 
 And that's it! Sit back and watch the magic happen as apt-nerd installs your chosen Nerd Font with ease.
 
