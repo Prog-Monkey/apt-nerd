@@ -45,5 +45,6 @@ And that's it! Sit back and watch the magic happen as apt-nerd installs your cho
 
 ## Example 💡
 
-For instance, if you'd like to install the Meslo font, you would provide the following URL:
+For instance, if you'd like to install the Agave font, you would provide the following URL:
+https://github.com/ryanoasis/nerd-fonts/releases/tag/v3.2.1/Agave.zip
 
