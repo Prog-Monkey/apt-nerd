@@ -1,8 +1,7 @@
 #/bin/bash
 echo "Input the Github URL please!"
 read url
-echo "Downloading ......"
-echo $url
+echo "Downloading ....."+$url
 wget $url
 echo "What is the name of the zip? Example Jetbrains.zip."
 read Name
