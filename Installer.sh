@@ -1,12 +1,12 @@
 #/bin/bash
 echo "Input the Github URL please!"
 read url
-echo "[-] Download fonts [-]"
+echo "Downloading ......"
 echo $url
 wget $url
-echo "What is the name of the zip? Example Jetbrains.zip Please Enter!"
+echo "What is the name of the zip? Example Jetbrains.zip."
 read Name
 unzip $Name -d ~/.fonts
 fc-cache -fv
 rm $Name
-echo "done!"
+echo "Thanks for using apt-nerd please star this repo on github!"
