@@ -47,4 +47,4 @@ And that's it! Sit back and watch the magic happen as apt-nerd installs your cho
 
 For instance, if you'd like to install the Agave font, you would provide the following URL:
 https://github.com/ryanoasis/nerd-fonts/releases/tag/v3.2.1/Agave.zip
-
+All hail the Nerd font supporters and devs at https://www.nerdfonts.com/
