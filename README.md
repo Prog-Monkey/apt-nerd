@@ -33,7 +33,7 @@ Make sure you have `git` installed on your system. If not, you can install it vi
     ```bash
     ./Installer.sh
     ```
-
+Pls, star this project!!!!⭐⭐⭐⭐⭐
 ### Usage 🛠️
 
 Once you've run the installer script, follow these simple steps:
